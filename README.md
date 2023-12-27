@@ -1,6 +1,6 @@
 # Python API with datastructures
 
-[![CircleCI](https://circleci.com/gh/mwaz/python-api-with-datastructures.svg?style=svg)](https://circleci.com/gh/mwaz/python-api-with-datastructures)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/data-structure-python-applications.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/data-structure-python-applications)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
